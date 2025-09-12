@@ -1,6 +1,6 @@
 # Product Gallery App
 
-A modern, responsive e-commerce product gallery built with React 18, featuring real-time search, infinite scrolling, lazy-loaded images, and a beautiful dark/light theme toggle. Built as a technical assessment demonstrating React best practices and performance optimization.
+A modern, responsive e-commerce product gallery built with React 18, featuring real-time search, infinite scrolling, lazy-loaded images, and a beautiful dark/light theme toggle. Built with React's best practices and performance optimization.
 
 ## 🚀 Features
 
@@ -48,13 +48,7 @@ A modern, responsive e-commerce product gallery built with React 18, featuring r
    ```
    http://localhost:3000
    ```
-
-## 🔧 Available Scripts
-
-- `npm start` - Runs the app in development mode
-- `npm test` - Launches the test runner
-- `npm run build` - Builds the app for production
-- `npm run eject` - Ejects from Create React App (one-way operation)
+   
 
 ## 🌐 API Integration
 
@@ -75,7 +69,7 @@ The app uses **DummyJSON API** for product data:
 ```
 src/
 ├── components/
-│   ├── SearchBar.js          # Search input with theme toggle
+│   ├── SearchBar.js          # Search input field with theme button
 │   ├── ProductList.js        # Infinite scroll product grid
 │   └── ProductCard.js        # Individual product card with animations
 ├── hooks/
@@ -144,11 +138,6 @@ src/
 - Safari 14+
 - Edge 90+
 
-## 📄 License
-
-This project is created as a technical assessment and is for demonstration purposes.
-
-## 🤝 Contributing
 
 This is an assessment project, but feel free to fork and experiment with the code!
 
