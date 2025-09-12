@@ -138,9 +138,3 @@ src/
 - Safari 14+
 - Edge 90+
 
-
-This is an assessment project, but feel free to fork and experiment with the code!
-
----
-
-**Built with ❤️ using React 18 and modern web technologies**
